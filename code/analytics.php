@@ -1,12 +1,5 @@
 <?php
 
-if (!function_exists('json_encode')) {
-    throw new Exception('Analytics needs the JSON PHP extension.');
-}
-
-require(dirname(__FILE__) . '/analytics/client.php');
-
-
 class Analytics {
 
   private static $client;
