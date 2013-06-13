@@ -1,4 +1,4 @@
-analytics-php
+analytics-php SilverStripe Module
 ==============
 
 [![Build Status](https://travis-ci.org/segmentio/analytics-php.png?branch=master)](https://travis-ci.org/segmentio/analytics-php)
